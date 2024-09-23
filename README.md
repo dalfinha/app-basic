@@ -1,2 +1,17 @@
-# app-basic
-aplicação java gradle para orquestração de agentes com foco em reuso
+> [!CAUTION] Aplicação em construção!
+
+# App-Basic-Low-Code
+
+Aplicação Java Gradle para orquestração de agentes com foco em reuso.
+
+## Estrutura do Projeto
+
+/app-basic
+ ├── build.gradle               
+ ├── src
+ │   └── main
+ │       └── java
+ │           └── com
+ │               └── example
+ │                   └── helloWorld.java    
+ └── Dockerfile                 
