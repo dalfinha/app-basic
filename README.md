@@ -6,6 +6,7 @@ Aplicação Java Gradle para orquestração de agentes com foco em reuso.
 
 ## Estrutura do Projeto
 
+```bash
 /app-basic
  ├── build.gradle               
  ├── src
@@ -15,3 +16,4 @@ Aplicação Java Gradle para orquestração de agentes com foco em reuso.
  │               └── example
  │                   └── helloWorld.java    
  └── Dockerfile                 
+```
